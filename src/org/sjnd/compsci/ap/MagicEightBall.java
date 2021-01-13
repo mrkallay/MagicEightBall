@@ -51,7 +51,7 @@ public class MagicEightBall {
         students[6] = new Student("JackA", 212);
         students[7] = new Student("Chris", 216);
         students[8] = new Student("Quinn", 215);
-        students[9] = new Student("JackM", 212);
+        students[9] = new Student("Jack", 212);
 
         selectedIndex = -1;
 
